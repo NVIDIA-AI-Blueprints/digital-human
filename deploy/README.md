@@ -12,7 +12,7 @@ The digital avatar deployment uses cloud native stack deployment script that aut
 
 For this workflow, we will be leveraging [NVIDIA ACE](https://developer.nvidia.com/ace) - a suite of technologies for bringing digital humans to life with generative AI.
 
-Follow the setup guide [here](https://docs.nvidia.com/ace/latest/workflows/tokkio/text/deployment/Bare_Metal_Setup_Guide_automated.html) to deploy the out of box **Ben** digital human on your virtual or physical machine.
+Follow the setup guide [here](https://docs.nvidia.com/ace/latest/workflows/tokkio/text/deployment/BareMetal-setup.html#setup-guide) to deploy the out of box **Ben** digital human on your virtual or physical machine.
 
 ## RAG Pipeline Deployment
 
